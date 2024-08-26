@@ -1,1 +1,1 @@
-Hi My name is Musayev Abdusamadjon. 
+Wending machine via sql database language
